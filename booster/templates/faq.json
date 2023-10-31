@@ -1,0 +1,858 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "464205b8",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "%",
+                    "top": "7",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "%",
+                    "top": "15",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "%",
+                    "top": "30",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1aaff385",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1cae554f",
+                            "settings": {
+                                "title": "Home - FAQ Page",
+                                "header_size": "h6",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": ""
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3d57fd06",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7c269c2e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "a49f23e",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "542aa5f"
+                                    },
+                                    {
+                                        "text": "FAQ",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "eb287a1"
+                                    },
+                                    {
+                                        "text": "Help Center",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "e8e784a"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "divider": "yes",
+                                "divider_color": "#DDDDDD73",
+                                "text_color": "#CACED3",
+                                "text_color_hover": "#FFFFFF",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "300",
+                                "icon_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=accent",
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "icon_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4364e237",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "align": "center",
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 6,
+                                    "vertical": 6,
+                                    "blur": 11,
+                                    "color": "#110335"
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=aec3425"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200,
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "c462835",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": 0,
+                    "bottom": "100",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "93f33cb",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "20bb6e95",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "2466145b",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "79d2d6f5",
+                                            "settings": {
+                                                "title": "Nisl facilisi dapibus mattis",
+                                                "header_size": "h5",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "a61964e",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6bf8d528",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "5f4b6c65",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast",
+                                        "animation_delay": 300
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5db80368",
+                                            "settings": {
+                                                "title": "Turpis enim ante ligula",
+                                                "header_size": "h4",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "20578e28",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "46477a71",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "2d7a6ea2",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast",
+                                        "animation_delay": 500
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3be31f84",
+                                            "settings": {
+                                                "title": "Odio  at sociosqu netus",
+                                                "header_size": "h4",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5a71db1",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7ada2177",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "563884bb",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "6c0a9a33",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast",
+                                        "animation_delay": 200
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5cf7d4f2",
+                                            "settings": {
+                                                "title": "Viverra sem vitae ",
+                                                "header_size": "h4",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "48bf451b",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "62dfb820",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "1fb33db3",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast",
+                                        "animation_delay": 400
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3dfec0d0",
+                                            "settings": {
+                                                "title": "Praesent metus sapien",
+                                                "header_size": "h4",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2ca9ef90",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "3b79d4f5",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "301e0bff",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "animation": "fadeInUp",
+                                        "animation_duration": "fast",
+                                        "animation_delay": 600
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4d09d97a",
+                                            "settings": {
+                                                "title": "Accumsan  nullam",
+                                                "header_size": "h4",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "__globals__": {
+                                                    "_background_color": "",
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b"
+                                                },
+                                                "_background_image": {
+                                                    "id": 32,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "37d21e9e",
+                                            "settings": {
+                                                "editor": "<p>Facilisi diam placerat nascetur porta tempus iaculis montes sagittis tincidunt pretium semper vestibulum, lacus taciti egestas\u00a0 pellentesque.<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=accent",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

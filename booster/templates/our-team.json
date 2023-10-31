@@ -1,0 +1,1545 @@
+{
+    "version": "0.4",
+    "title": "Our Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2f2bb727",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "%",
+                    "top": "7",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "%",
+                    "top": "15",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "%",
+                    "top": "30",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "41803ba1",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6aa86dca",
+                            "settings": {
+                                "title": "Home - Our Team Page",
+                                "header_size": "h6",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary",
+                                    "typography_typography": ""
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_family": "Inter",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 22,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -0.5,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5ceedad8",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3ad68a90",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5bc44ad0",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "542aa5f"
+                                    },
+                                    {
+                                        "text": "Our Team",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "eb287a1"
+                                    },
+                                    {
+                                        "text": "Career",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "e8e784a"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "divider": "yes",
+                                "divider_color": "#DDDDDD73",
+                                "text_color": "#CACED3",
+                                "text_color_hover": "#FFFFFF",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Inter",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "300",
+                                "icon_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=accent",
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "icon_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "696e0140",
+                            "settings": {
+                                "title": "Our Team",
+                                "align": "center",
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 6,
+                                    "vertical": 6,
+                                    "blur": 11,
+                                    "color": "#110335"
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=aec3425"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200,
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4aec822f",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "50e6f186",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 40,
+                                        "margin": {
+                                            "unit": "%",
+                                            "top": "10",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "content_position": "top"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "18bb19ae",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 56,
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr028.png"
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "animation_duration": "fast",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "39869a8e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "content_position": "center",
+                                        "margin": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "25e3e26c",
+                                            "settings": {
+                                                "title": "Meet the People Delivering Results for Clients",
+                                                "align": "left",
+                                                "text_shadow_text_shadow_type": "yes",
+                                                "text_shadow_text_shadow": {
+                                                    "horizontal": 6,
+                                                    "vertical": 6,
+                                                    "blur": 11,
+                                                    "color": "#110335"
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=aec3425"
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 200,
+                                                "title_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "629ee595",
+                                            "settings": {
+                                                "editor": "<p>Mauris primis lobortis ullamcorper etiam per magnis ante odio rhoncus integer inceptos, enim id facilisi neque t, porttitor turpis malesuada egestas lacinia<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "text_color": "globals\/colors?id=secondary"
+                                                },
+                                                "_margin": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "688e8678",
+                                            "settings": {
+                                                "text": "Find our more",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Poppins",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "500",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#FFFFFF",
+                                                "background_background": "gradient",
+                                                "background_color": "#FFFFFF00",
+                                                "background_color_b": "#F2295B00",
+                                                "hover_color": "#FFFFFF",
+                                                "button_background_hover_color": "#CACED300",
+                                                "hover_animation": "shrink",
+                                                "_background_background": "classic",
+                                                "_background_image": {
+                                                    "id": "26",
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-05.png"
+                                                },
+                                                "_background_position": "center center",
+                                                "_background_size": "cover",
+                                                "_background_hover_background": "classic",
+                                                "_background_hover_image": {
+                                                    "id": "27",
+                                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-06.png"
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "%",
+                                                    "size": 52,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=6bdfb5b",
+                                                    "button_text_color": "globals\/colors?id=primary",
+                                                    "background_color": "",
+                                                    "hover_color": "globals\/colors?id=primary",
+                                                    "button_background_hover_color": ""
+                                                },
+                                                "selected_icon": {
+                                                    "value": "fas fa-angle-right",
+                                                    "library": "fa-solid"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 33,
+                                                    "sizes": []
+                                                },
+                                                "_element_width_tablet": "initial",
+                                                "_element_width_mobile": "initial",
+                                                "_element_custom_width_tablet": {
+                                                    "unit": "%",
+                                                    "size": 62,
+                                                    "sizes": []
+                                                },
+                                                "_element_custom_width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 70,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4cc2d967",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4fef7ff0",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "542c93bd",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6a89946a",
+                            "settings": {
+                                "image": {
+                                    "id": 58,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-6.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "544e551d",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Harry Styles",
+                                "description_text": "CEO Booster",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "71079060",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "226adf84",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "e79cccd",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6c54835b",
+                            "settings": {
+                                "image": {
+                                    "id": 60,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-3.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "78537b82",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Gemma Chan",
+                                "description_text": "staff",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "70c86e53",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1cd54a52",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2d300106",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "646cd989",
+                            "settings": {
+                                "image": {
+                                    "id": 61,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-2.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "32b24f58",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Lucia Efstathiou",
+                                "description_text": "Staff",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26956878",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6679674c",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1440,
+                    "sizes": []
+                },
+                "structure": "30"
+            },
+            "elements": [
+                {
+                    "id": "5920d9b5",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "592989a4",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "69a642e3",
+                            "settings": {
+                                "image": {
+                                    "id": 66,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-5.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "110b0c11",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Barry Keoghan",
+                                "description_text": "CEO Booster",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2a3c7950",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "9f10ac8",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "23282b04",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f35ebf9",
+                            "settings": {
+                                "image": {
+                                    "id": 68,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-1.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2a4fc9e",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Salma Hayek",
+                                "description_text": "staff",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "64fd6ae3",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "64dae5e",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 33,
+                        "margin": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4b55933d",
+                            "settings": {
+                                "image": {
+                                    "id": "32",
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "vh",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "height_tablet": {
+                                    "unit": "vh",
+                                    "size": 18,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "40d6a8e0",
+                            "settings": {
+                                "image": {
+                                    "id": 71,
+                                    "url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-4.jpg"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_mask_switch": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e39548d",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Kit Harington",
+                                "description_text": "Staff",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "title_typography_typography": "globals\/typography?id=secondary",
+                                    "description_typography_typography": "globals\/typography?id=accent",
+                                    "description_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b76ac47",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "0a7afc2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f2ab5f2"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "9d42f8c"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#FFFFFF00",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "",
+                                    "icon_secondary_color": "globals\/colors?id=primary",
+                                    "hover_secondary_color": "globals\/colors?id=3a0ad95"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

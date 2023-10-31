@@ -1,0 +1,2087 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Booster - Digital Marketing Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "2.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.png",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Social Media",
+            "screenshot": "screenshots\/social-media.jpg",
+            "source": "templates\/social-media.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/social-media\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "SEO",
+            "screenshot": "screenshots\/seo.jpg",
+            "source": "templates\/seo.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/seo\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing 01",
+            "screenshot": "screenshots\/pricing-01.jpg",
+            "source": "templates\/pricing-01.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/pricing-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing 02",
+            "screenshot": "screenshots\/pricing-02.png",
+            "source": "templates\/pricing-02.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/pricing-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.jpg",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/?elementor_library=blog-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing 01- Section",
+            "screenshot": "screenshots\/pricing-01-section.jpg",
+            "source": "templates\/pricing-01-section.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/pricing-01-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing 02- Section",
+            "screenshot": "screenshots\/pricing-02-section.jpg",
+            "source": "templates\/pricing-02-section.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/pricing-02-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing 03- Section",
+            "screenshot": "screenshots\/pricing-03-section.jpg",
+            "source": "templates\/pricing-03-section.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/template-kit\/pricing-03-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/booster1.1onestrong.com\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Events Addon for Elementor",
+            "version": "1.9.7",
+            "file": "events-addon-for-elementor\/events-addon-for-elementor.php",
+            "author": "NicheAddons"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Background-02.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 334909,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-01.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 200943,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr04.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 203235,
+            "dimensions": [
+                537,
+                784
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr05.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 19602,
+            "dimensions": [
+                1158,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-3.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 49943,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-3.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Rectangle-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 165191,
+            "dimensions": [
+                820,
+                579
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-2.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 93929,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-6.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 63753,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-4.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Rectangle-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 165603,
+            "dimensions": [
+                820,
+                579
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-5.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 416528,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-4.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 59104,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-1.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 61645,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr010.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr010.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 58656,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-05.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                },
+                {
+                    "source": "templates\/pricing-02.json",
+                    "name": "Pricing 02"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 76732,
+            "dimensions": [
+                560,
+                379
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-06.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                },
+                {
+                    "source": "templates\/pricing-02.json",
+                    "name": "Pricing 02"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 76818,
+            "dimensions": [
+                560,
+                379
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr012.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr012.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 180363,
+            "dimensions": [
+                419,
+                712
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr07.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 113311,
+            "dimensions": [
+                376,
+                379
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/t-shirt-mockups-3L57NH2"
+        },
+        {
+            "filename": "boostrr013.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr013.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 264715,
+            "dimensions": [
+                1082,
+                1337
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr014.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr014.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 204179,
+            "dimensions": [
+                991,
+                796
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/t-shirt-mockups-3L57NH2"
+        },
+        {
+            "filename": "boostrr017.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr017.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 427039,
+            "dimensions": [
+                879,
+                965
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr016.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr016.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 90355,
+            "dimensions": [
+                802,
+                256
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr018.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr018.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 109301,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr021.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr021.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 39257,
+            "dimensions": [
+                362,
+                194
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-03.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 300438,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1032.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1032.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7354,
+            "dimensions": [
+                393,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1023.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1023.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10553,
+            "dimensions": [
+                393,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1028.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1028.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13052,
+            "dimensions": [
+                394,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1030.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1030.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 19183,
+            "dimensions": [
+                394,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1021.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1021.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 15384,
+            "dimensions": [
+                394,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1031.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1031.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13367,
+            "dimensions": [
+                394,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-1024.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-1024.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14927,
+            "dimensions": [
+                394,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/social-media-marketing-icons-line-and-solid-XZXN9KT"
+        },
+        {
+            "filename": "Group-33646.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-33646.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                }
+            ],
+            "filesize": 99212,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-33644.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-33644.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1525,
+            "dimensions": [
+                356,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr022.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr022.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 291462,
+            "dimensions": [
+                850,
+                690
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marketing-concept-ZUVENKY"
+        },
+        {
+            "filename": "Background-04.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 52784,
+            "dimensions": [
+                376,
+                379
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-2.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 36246,
+            "dimensions": [
+                335,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-14.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 45420,
+            "dimensions": [
+                333,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-22.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-22.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 46213,
+            "dimensions": [
+                335,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-10.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 42840,
+            "dimensions": [
+                334,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "Mask-Group-1.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 338763,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bost02.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/bost02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 362250,
+            "dimensions": [
+                676,
+                558
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/seo-dashboard-F49MRYG"
+        },
+        {
+            "filename": "bost05.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/bost05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 218543,
+            "dimensions": [
+                991,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sport-shoes-RXDZBNW"
+        },
+        {
+            "filename": "bost06.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/bost06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 116273,
+            "dimensions": [
+                376,
+                379
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sport-shoes-NF72S78"
+        },
+        {
+            "filename": "placeholder-2.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/placeholder-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-2-1.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                }
+            ],
+            "filesize": 394172,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-07.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-07.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 149409,
+            "dimensions": [
+                816,
+                575
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Background-08.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Background-08.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 227579,
+            "dimensions": [
+                816,
+                575
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-33657.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-33657.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2365,
+            "dimensions": [
+                592,
+                142
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr029.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr029.png",
+            "templates": [
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 88907,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "LinkedIn.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/LinkedIn.png",
+            "templates": [
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 308527,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand-ad01-10.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/brand-ad01-10.png",
+            "templates": [
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                }
+            ],
+            "filesize": 64254,
+            "dimensions": [
+                988,
+                988
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr028.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr028.png",
+            "templates": [
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 98905,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr027.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr027.png",
+            "templates": [
+                {
+                    "source": "templates\/social-media.json",
+                    "name": "Social Media"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 105488,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr015.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr015.png",
+            "templates": [
+                {
+                    "source": "templates\/seo.json",
+                    "name": "SEO"
+                }
+            ],
+            "filesize": 328491,
+            "dimensions": [
+                879,
+                965
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boostrr026.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boostrr026.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-01.json",
+                    "name": "Pricing 01"
+                }
+            ],
+            "filesize": 3114,
+            "dimensions": [
+                319,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-Group-6.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 126862,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Mask-Group-3.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 145478,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Mask-Group-2.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 121458,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Mask-Group-5.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 111960,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Mask-Group-1.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 132879,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Mask-Group-4.jpg",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Mask-Group-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 135017,
+            "dimensions": [
+                442,
+                442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-asian-creative-business-team-2WHVSTY"
+        },
+        {
+            "filename": "Group-33665.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/Group-33665.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 103121,
+            "dimensions": [
+                394,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 25561,
+            "dimensions": [
+                856,
+                323
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "boofooot01.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/boofooot01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 234783,
+            "dimensions": [
+                1920,
+                705
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo3-1.png",
+            "thumbnail_url": "https:\/\/booster1.1onestrong.com\/wp-content\/uploads\/2022\/02\/logo3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 25561,
+            "dimensions": [
+                856,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/geo-100vectors-vector-pack-XG8XRU8"
+        }
+    ]
+}
